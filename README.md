@@ -17,7 +17,7 @@ sequelize db:migrate:undo:all (恢復所有跑過的 migrations)
 ```
 
 - 參考資料
- - Sequelize 指令
-  - https://dwatow.github.io/2021/05-15-raspberry-pi/sequelize-cli-beginer/
- - Sequelize 教學
-  - https://youtu.be/tpso18ghda4
+  - Sequelize 指令
+    - https://dwatow.github.io/2021/05-15-raspberry-pi/sequelize-cli-beginer/
+  - Sequelize 教學
+    - https://youtu.be/tpso18ghda4
