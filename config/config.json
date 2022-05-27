@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "express_sequelize",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
